@@ -49,7 +49,7 @@ These prompts were executed through `agent.invoke()` and allowed non-technical u
 
 ## 📊 Visualization Example
 
-![popularity_histogram](images/popularity_histogram.png)
+![popularity_histogram](https://drive.google.com/file/d/1yiMkDt9V2RAYev9DP_syDcq1vJS1eB4c/view?usp=drive_link)
 
 > Histogram showing popularity distribution of tracks.
 
